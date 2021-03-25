@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Olivier De Neef</Authors>
+    <Company>DNO Development</Company>
   </PropertyGroup>
 
 </Project>
